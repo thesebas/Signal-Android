@@ -4283,7 +4283,7 @@
     <string name="preferences_chats__chats">Czaty</string>
     <string name="preferences_app_updates__title">Aktualizacje aplikacji</string>
     <string name="preferences_data_and_storage__manage_storage">Zarządzaj pamięcią</string>
-    <string name="preferences_data_and_storage__use_less_data_for_calls">Zżywaj mniej danych podczas połączeń</string>
+    <string name="preferences_data_and_storage__use_less_data_for_calls">Zużywaj mniej danych podczas połączeń</string>
     <string name="preferences_data_and_storage__never">Nigdy</string>
     <string name="preferences_data_and_storage__wifi_and_mobile_data">Wi-Fi i sieć komórkowa</string>
     <string name="preferences_data_and_storage__mobile_data_only">Tylko sieć komórkowa</string>
